@@ -1,0 +1,11 @@
+export const SET_STATS = 'SET_STATS';
+
+export const NECRO_SELECTED_START = 'NECRO_SELECTED_START';
+
+export const SET_ITEM_SLOT = 'SET_ITEM_SLOT';
+
+export const ITEM_STAT_CHANGES = 'ITEM_STAT_CHANGES';
+
+export const SET_NECRO_STATS = 'SET_NECRO_STATS';
+
+export const SET_GAMESTATE = 'SET_GAMESTATE';

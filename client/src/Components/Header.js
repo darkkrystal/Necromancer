@@ -20,7 +20,7 @@ const Header = () => {
   }, [items])
 
   const renderItems = () => {
-    return (<Navbar.Brand style={{ color: "black" }}>{items[0] ? items[0].name : ''}</Navbar.Brand>
+    return (<Navbar.Brand style={{ color: "black" }}>{ items[0] ? items[0].name : '' }</Navbar.Brand>
     )
   }
   const MouseOverMenu = (index) => {
